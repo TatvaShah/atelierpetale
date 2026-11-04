@@ -1,148 +1,221 @@
 {
-  "/images/logo.png": [
-    "b23bf79c",
-    128,
-    256,
-    384,
-    512
+ "/images/logo.png": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
   ],
-  "/images/og-photo.jpg": [
-    "efb3b595",
-    128,
-    256,
-    384,
-    480
+  "base": "/images/_opt/logo.3a01b37d16",
+  "stamp": "3a01b37d16"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
   ],
-  "/images/stock/openverse-52af2a9181.jpg": [
-    "319d2fd6",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/og-photo.9f4d5f7168",
+  "stamp": "9f4d5f7168"
+ },
+ "/images/stock/openverse-52af2a9181.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-5773ebecea.jpg": [
-    "d4eb0053",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-52af2a9181.c34613c816",
+  "stamp": "c34613c816"
+ },
+ "/images/stock/openverse-5773ebecea.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-6982db0bdd.jpg": [
-    "d17d1d31",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-5773ebecea.25e177146c",
+  "stamp": "25e177146c"
+ },
+ "/images/stock/openverse-6982db0bdd.jpg": {
+  "w": 960,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-6e7d5fad68.jpg": [
-    "054bdd05",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    900
+  "base": "/images/_opt/stock/openverse-6982db0bdd.4bd0f6454b",
+  "stamp": "4bd0f6454b"
+ },
+ "/images/stock/openverse-6e7d5fad68.jpg": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
   ],
-  "/images/stock/openverse-74b1d0d001.jpg": [
-    "f98ed156",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-6e7d5fad68.056bfc7ec1",
+  "stamp": "056bfc7ec1"
+ },
+ "/images/stock/openverse-74b1d0d001.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-7d59e00fd7.jpg": [
-    "fe97291f",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-74b1d0d001.0d23f0be15",
+  "stamp": "0d23f0be15"
+ },
+ "/images/stock/openverse-7d59e00fd7.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-8567570125.jpg": [
-    "d4395b81",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    1080,
-    1200
+  "base": "/images/_opt/stock/openverse-7d59e00fd7.e566559d2c",
+  "stamp": "e566559d2c"
+ },
+ "/images/stock/openverse-8567570125.jpg": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
   ],
-  "/images/stock/openverse-aeb2ae0491.jpg": [
-    "8c830c19",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-8567570125.956c4cd0a6",
+  "stamp": "956c4cd0a6"
+ },
+ "/images/stock/openverse-aeb2ae0491.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-b522dbd559.jpg": [
-    "3a59e46d",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-aeb2ae0491.e3ff306038",
+  "stamp": "e3ff306038"
+ },
+ "/images/stock/openverse-b522dbd559.jpg": {
+  "w": 960,
+  "h": 1200,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-b9019770f7.jpg": [
-    "d87c2f1c",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-b522dbd559.6b74969059",
+  "stamp": "6b74969059"
+ },
+ "/images/stock/openverse-b9019770f7.jpg": {
+  "w": 960,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-cafc333fba.jpg": [
-    "9578d112",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-b9019770f7.6c6aefbe5e",
+  "stamp": "6c6aefbe5e"
+ },
+ "/images/stock/openverse-cafc333fba.jpg": {
+  "w": 960,
+  "h": 1536,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/images/stock/openverse-da23701d81.jpg": [
-    "d1fdf608",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    960
+  "base": "/images/_opt/stock/openverse-cafc333fba.e276fa1be3",
+  "stamp": "e276fa1be3"
+ },
+ "/images/stock/openverse-da23701d81.jpg": {
+  "w": 960,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   960
   ],
-  "/og.jpg": [
-    "09f34df3",
-    128,
-    256,
-    384,
-    640,
-    750,
-    828,
-    1080,
-    1200
-  ]
+  "base": "/images/_opt/stock/openverse-da23701d81.14a7a1fb3e",
+  "stamp": "14a7a1fb3e"
+ }
 }

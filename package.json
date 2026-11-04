@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "prebuild": "node scripts/optimize-images.mjs",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "og": "next build && node scripts/make-og.mjs",
+    "og": "npm run build && node scripts/make-og.mjs",
     "stock": "node scripts/stock-images.mjs",
-    "prebuild": "node scripts/optimize-images.mjs",
     "predev": "node scripts/optimize-images.mjs"
   },
   "dependencies": {
